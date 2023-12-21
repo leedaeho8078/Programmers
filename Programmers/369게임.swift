@@ -2,7 +2,7 @@
 // 369게임 .swift
 // Created by 이대호 on 2023/12/21.
 // 프로그래머스 - 입문
-// https://school.programmers.co.kr/learn/courses/30/lessons/120850 
+// https://school.programmers.co.kr/learn/courses/30/lessons/120891
 
 
 import Foundation
